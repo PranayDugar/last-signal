@@ -1,0 +1,1 @@
+{"name":"last-signal","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"node local-server.mjs","test":"node verify.mjs"},"devDependencies":{"wrangler":"^4.158.0"}}
