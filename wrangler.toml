@@ -5,3 +5,8 @@ workers_dev = true
 
 [build]
 command = "npm run build"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "last-signal-db"
+database_id = "7bb73ed9-410c-45e5-b2cd-a9543ad8e872"
